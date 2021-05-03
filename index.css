@@ -64,3 +64,18 @@ section {}
     font-weight: bold;
     padding: 10px 10px;
 }
+
+.buy-product {
+    text-align: center;
+    background-color: #00ff22;
+    font-weight: bold;
+    padding: 10px 0 10px 0;
+    width: 50%;
+    margin: 0 25% 0 25%;
+    cursor: pointer;
+}
+
+.seasonal-products-box {
+    width: 80%;
+    margin: 0 10%;
+}
