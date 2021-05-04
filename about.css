@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Lato:wght@300&display=swap');
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border-width: 2px;
+    border-color: lawngreen;
+    border-style: solid;
+}

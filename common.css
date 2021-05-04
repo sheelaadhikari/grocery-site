@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Lato:wght@300&display=swap');
+* {
+    font-family: Comfortaa, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+    height: 50px;
+}
+
+.page-title {
+    color: green;
+    font-family: 'Freckle Face', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+
+#grocery-link {
+    flex: 4;
+    align-self: center;
+    padding-left: 30px;
+}
+
+#about-link {
+    flex: 4;
+    align-self: center;
+    font-weight: 600;
+}
