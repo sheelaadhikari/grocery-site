@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Lato:wght@300&display=swap');
-table {
+#table-1 {
     border-collapse: collapse;
+    flex-direction: row;
+    /* flex: 1; */
+    float: left;
+}
+
+#table-2 {
+    border-collapse: collapse;
+    flex-direction: row;
+    /* flex: 2; */
+    float: right;
 }
 
 th,
